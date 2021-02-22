@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(207, 22, 22);
+}
+
+div {
+    margin: 5px auto; 
+    width: 600px; 
+    height: auto; 
+    background-color: rgba(210,130,50,0.6); 
+    color: cornsilk; 
+    box-shadow: 5px 5px 10px rgba(184,134,11,0.6); 
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20pt;
+}
+
+div>div{
+    width: auto;
+    height: auto;
+    background-color: rgb(210,130,50); 
+    box-shadow:0 0 0;
+    font-size: 1.2em;
+}
+
+div>div>div{
+    width: 80%;
+    height: 80%;
+    box-shadow:0 0 0;
+    font-size: 0.8em;
+    margin: 0 auto;
+}
+
+div>.class04{
+    width: auto;
+    height: auto;
+    box-shadow:0 0 0;
+    font-size: 0.8em;
+}
+
+#div02 {
+    color:darkkhaki
+}
+.class03 {
+    background-color: rgb(5, 26, 88);
+    box-shadow: 5px 5px 10px royalblue;
+    font-size: 18px;
+}
